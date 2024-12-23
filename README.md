@@ -1,5 +1,4 @@
-# Predictive Models for Electoral Behaviour in the UK
-
+# Comparing Predictive Models for Electoral Behaviour in England and Wales: Logistic Regression vs Tree-Based Algorithms
 ## Overview
 
 This project investigates the effectiveness of different predictive models in analysing electoral behaviour in the UK. It compares Logistic Regression, Random Forest, and Gradient Boosting algorithms to determine their suitability for predicting voting patterns based on demographic and socioeconomic variables.
